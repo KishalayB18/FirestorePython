@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "future-spot-340810",
+  "private_key_id": "631056e3478ad2ad98709efcd3efc84e471d7707",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQyYE/Tk1eMgIK\nSesfSpO3lowxKlvFUV5YacUmDijlD7XLxHvs3t18UByF46qLIQGFNTZmQNubKyNn\nd4ITIhgy2j6L6+8WcAf6YC260hUat72JTmH33Ra9c4Uv6jZ3Y+K5Yr/4vax0sDU9\n1KCDg50HdJmeIenr68wYRW1CBwxhQaV61A9GDl9INkX9xeLnCycjG5SRVZCpWO6H\n6CweHJFn+ReeM0JiltwR8iCmEpSLNWYmiy8MFeThMNI0LS588R7UT/RrwUyEMnfB\ng0C9QClFUm/1nUbZMqm3yOt0EHa8joFAAka63Hb7QrNHzZ2LJcrIfX28XXF3wHdy\nYoqIpgP3AgMBAAECggEAG8wwSpLsxxVGY0NLLBvcRe2j1anrlP5L3t6aMoJhHHo2\nfJ4416UmfPYXjhXtL1/iGW+nwf5xnpukN5LYPR7ldOPMvwlXCDg7P7ENdZmh2LBM\n6lqGvZ7wd6HJQkNfJA8m8QK+R2pNay3IsOY9xrS/s+3ow/6E6/W1cyfPL6LLmakL\nttLl68dBqMWccOyoJMoHU6ma4oSFG75xyWplvJb0hGI5DBL95WOTYnCtSVM4vU9k\nM0cLt+wDwxL3NzkBSsMj/lSviZzGWYqwl5rfQca6PjBdNgitmqPDvnWJfIDswee/\nhgobryFaV2dj6tPgk3yVRspn/AmwlXrioiZmKGG/KQKBgQDxI6BRJfZSW832YIn2\nUih1skeLfb1WKjGoLeeG36syZihYVkWoXoMV7SPvmig0w83SdCLygSJ5Z0tDLg1B\nrpZrWcNWRvmCq6FnWqIpIylO0fdvH0Sd2mJRKWrszaQGOUOadsVFGVyf2Htsp9jZ\njqa59sSZmDv1EO4yxNe/GmoAfwKBgQDdp3icByZ8vBPlRdvZwxM/Co2xb7zL1feC\ncUriVCX3TCO0wQ3j8JUFLcRML3H2uokVBQE2MRepwsiT38HRnYkjP2Gf9/hcW2sy\nodZucR4OOOTQF9H5XGy6Tt5ilBqTQWz7LuFjS1uuNvUBpEopEG1/l+sga5xiebO8\nxvp3NDRAiQKBgAqTH2KvoX+3Gu8lCKfOrouKx+xsFTOEIi1X5gFaKa3KIRbOobti\neakqfxrwzbaSp6IFCctMsnBUgU5u5JHu0BXhF9nevu5mDGv144qeSh90wb8TxfSO\nMSWSBWhhFEJZnIdXkgsXs6Im4jK/oZjY0qLxGWoK7QYwOeHsE/IDfIaNAoGBAIP8\nwowekeN611oSVE0CpYZHkYJUKBc07TLGpbHKK+VreGOdBdlynDo+O4KmSfWCtDhJ\nB6SubQnQjEHJ3w8kANJ1Xnu0XDca1OWMizSutRgA9veXB5i2WaRDbJdE2+JN9khI\nbTwEVq6R2SlGHEcBmkJ9QyzGB5R4JfhGgETVWDwJAoGBAKilC2Jf2ZoJ+v97DwiS\nKjkLN7d5JwJj83yrSNo2jseQiZ5PV4NYIeULsVg6Jtn1Fl2qvSY2rLGqf63yRDdx\nZYMtiFTDGE5qUyXb88qRt8uPFehTa3nt8WLGuaUhBGBVoyu9jWBj2BdUW/eGmN+k\ntUAAhrM41jyUKWwpiRGlUeVq\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore1@future-spot-340810.iam.gserviceaccount.com",
+  "client_id": "107841153334064152219",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore1%40future-spot-340810.iam.gserviceaccount.com"
+}

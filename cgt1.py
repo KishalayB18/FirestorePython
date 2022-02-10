@@ -2,7 +2,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
 
-cred=credentials.Certificate("cgtest1-38ec4-firebase-adminsdk-en5vx-0857ce601e.json")
+cred=credentials.Certificate("future-spot-340810-631056e3478a.jason")
 firebase_admin.initialize_app(cred)
 
 db=firestore.client()
